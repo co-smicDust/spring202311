@@ -4,35 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d84595b-e7b3-4fb2-bfdb-d59c6577fe69" name="Changes" comment="수업 소스">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exam01/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exam01/Ex01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exam01/Ex02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exam01/Ex03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exam01/Ex04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exam01/Ex05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exam01/Schedule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exam02/Ex01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exam02/Ex02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exam02/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exam04/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exam04/Book2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exam04/Book3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exam04/Ex01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exam04/Ex02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exam04/Ex03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="0d84595b-e7b3-4fb2-bfdb-d59c6577fe69" name="Changes" comment="servlet&amp;JSP 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,7 +123,20 @@
       <option name="presentableId" value="Default" />
       <updated>1701315961441</updated>
     </task>
+    <task id="LOCAL-00001" summary="servlet&amp;JSP 2">
+      <option name="closed" value="true" />
+      <created>1704282448214</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704282448214</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="servlet&amp;JSP 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="servlet&amp;JSP 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
