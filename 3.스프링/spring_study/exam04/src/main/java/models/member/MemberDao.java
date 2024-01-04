@@ -1,10 +1,14 @@
 package models.member;
 
+import config.ManualBean;
+import org.springframework.stereotype.Repository;
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+@ManualBean
 public class MemberDao {
     //데이터 저장소
     //해시맵 - 키: 회원ID, 값: 회원 객체

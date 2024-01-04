@@ -1,7 +1,16 @@
 package models.member;
 
+import lombok.NonNull;
+import lombok.RequiredArgsConstructor;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+@Service
+@RequiredArgsConstructor
 public class JoinService {
-    private MemberDao memberDao;
+
+    private final MemberDao memberDao;
+    @NonNull
     private JoinValidator validator;
 
 
