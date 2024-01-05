@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<configuration>
+    <appender name="stdout" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            // 메세지 출력 방법
+            //  %d: 날짜와 시간
+            //  %5p: 5자리 내에서 로그 레벨 표기
+            //  %c{2}: 패키지 요약 출력(한글자로)
+            //  %m: 출력 메시지
+            <pattern>%d %5p %c{2} - %m%n</pattern>
+        </encoder>
+    </appender>
+    //root level: 기본레벨. 인포이상 모든 레벨이 보일 수 있도록.
+    <root level="INFO">
+        <appender-ref ref="stdout" />
+    </root>
+
+    <logger name="org.springframework.jdbc" level="TRACE" />    //디버그 이상 레벨
+</configuration>
